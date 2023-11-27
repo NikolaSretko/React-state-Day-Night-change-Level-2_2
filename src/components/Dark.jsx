@@ -1,10 +1,12 @@
 
-import Button from "./button";
+import Button from './Button'
 
 const Dark = () => {
 
     return ( 
+        <>
         <Button/>
+        </>
     );
 }
 
